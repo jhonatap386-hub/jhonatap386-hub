@@ -1,4 +1,4 @@
-## Hi I'm Jhonata 👋
+## 👋Hi! I'm Jhonata!
 
 <!--
 **jhonatap386-hub/jhonatap386-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
