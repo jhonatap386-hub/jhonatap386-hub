@@ -30,6 +30,5 @@
 
 
 <div>
-  <img src="<img width="572" height="349" alt="image" src="https://github.com/user-attachments/assets/35bbc52c-c121-4889-8063-5bb99a3695f5" />
-" alt="Texto alternativo da imagem" width="400">
+<img src="https://webandcrafts.com/_next/image?url=https%3A%2F%2Fadmin.wac.co%2Fuploads%2FFeatures_Of_Python_1_f4ccd6d9f7.jpg&w=4500&q=90" alt="Texto alternativo da imagem" width="400">
 </div>  
