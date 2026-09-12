@@ -31,5 +31,6 @@
 
 <div>
 <img src="https://webandcrafts.com/_next/image?url=https%3A%2F%2Fadmin.wac.co%2Fuploads%2FFeatures_Of_Python_1_f4ccd6d9f7.jpg&w=4500&q=90" alt="Texto alternativo da imagem" width="400">
-## Python 
 </div>  
+
+## Python
