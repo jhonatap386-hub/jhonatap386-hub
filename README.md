@@ -26,32 +26,11 @@
 </a>
 
   <a href="https://www.linkedin.com/in/jhonata-pereira-345aa42a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <img src="https://www.google.com/imgres?q=python&imgurl=https%3A%2F%2Fwebandcrafts.com%2F_next%2Fimage%3Furl%3Dhttps%253A%252F%252Fadmin.wac.co%252Fuploads%252FFeatures_Of_Python_1_f4ccd6d9f7.jpg%26w%3D4500%26q%3D90&imgrefurl=https%3A%2F%2Fwebandcrafts.com%2Fblog%2Ffeatures-of-python&docid=ToIIHHdqvx2P6M&tbnid=9AWZNK4TKavriM&vet=12ahUKEwjbnbXl8umWAxVCK7kGHXpZAHwQnPAOegUI3wEQAA..i&w=3536&h=2167&hcb=2&ved=2ahUKEwjbnbXl8umWAxVCK7kGHXpZAHwQnPAOegUI3wEQAA" alt="Texto alternativo da imagem" width="400">
 </div>
 
 
 
-name: Generate Datas
-
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    name: Jobs to update datas
-    runs-on: ubuntu-latest
-    steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: rafaballerini
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
--uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
           target_branch: output
           build_dir: dist
         env:
