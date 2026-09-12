@@ -26,13 +26,10 @@
 </a>
 
   <a href="https://www.linkedin.com/in/jhonata-pereira-345aa42a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <img src="https://www.google.com/imgres?q=python&imgurl=https%3A%2F%2Fwebandcrafts.com%2F_next%2Fimage%3Furl%3Dhttps%253A%252F%252Fadmin.wac.co%252Fuploads%252FFeatures_Of_Python_1_f4ccd6d9f7.jpg%26w%3D4500%26q%3D90&imgrefurl=https%3A%2F%2Fwebandcrafts.com%2Fblog%2Ffeatures-of-python&docid=ToIIHHdqvx2P6M&tbnid=9AWZNK4TKavriM&vet=12ahUKEwjbnbXl8umWAxVCK7kGHXpZAHwQnPAOegUI3wEQAA..i&w=3536&h=2167&hcb=2&ved=2ahUKEwjbnbXl8umWAxVCK7kGHXpZAHwQnPAOegUI3wEQAA" alt="Texto alternativo da imagem" width="400">
 </div>
 
 
-
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  
+<div>
+  <img src="<img width="572" height="349" alt="image" src="https://github.com/user-attachments/assets/35bbc52c-c121-4889-8063-5bb99a3695f5" />
+" alt="Texto alternativo da imagem" width="400">
+</div>  
