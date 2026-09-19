@@ -44,5 +44,8 @@
 - Análise De Dados | Inteligência Artificial |  
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf662jsDk194narO5f2NvL4fnvABPHtOYlnFVNoB5nJA&s=10">
-</div>
+  <a<img align="center" alt="Rafa-Python" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf662jsDk194narO5f2NvL4fnvABPHtOYlnFVNoB5nJA&s=10">
+</div> </a>
+https://techicons.dev/icons/pandas
+
+
