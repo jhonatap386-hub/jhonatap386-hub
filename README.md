@@ -16,7 +16,7 @@
 
 
 ## 👨‍💻 Sobre Mim
--- 
+
 
 - 💻 Atualmente estou estudando Análise e Desenvolvimento de Sistemas no Eniac (2026 - 2028)
 - 🐍 Estou me desenvolvendo com Python 1/3 
