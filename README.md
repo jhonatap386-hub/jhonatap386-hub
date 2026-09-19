@@ -1,8 +1,17 @@
-## 👋 Hi! I'm Jhonata! 
+## 👋 Hi! I'm Jhonata!
+
+--
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
+--
 
 -- 
 ## 👨‍💻 Sobre Mim
 -- 
+
 - 💻 Atualmente estou estudando Análise e Desenvolvimento de Sistemas no Eniac (2026 - 2028)
 - 🐍 Estou me desenvolvendo com Python 1/3 
 - 📈 Estou Procurando Oportunidade para demonstrar minhas Habilidades na área 
