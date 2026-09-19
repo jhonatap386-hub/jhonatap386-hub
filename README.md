@@ -3,12 +3,12 @@
 -- 
 ## 👨‍💻 Sobre Mim
 -- 
-- 💻 I am currently studying Systems Analysis and Development at Eniac College (2026 - 2028)
-- 🐍 I’m currently learning Python
-- 📈 I am looking for collaboration opportunities in the field of systems development. ...
-- 🤔 Studying and improving myself so that one day I can work in the IT field.
-- 💬 I have other platforms to connect with you, like LinkedIn.
-- ⚡ I've liked computers and video games since I was a child.
+- 💻 Atualmente estou estudando Análise e Desenvolvimento de Sistemas no Eniac (2026 - 2028)
+- 🐍 Estou me desenvolvendo com Python 1/3 
+- 📈 Estou Procurando Oportunidade para demonstrar minhas Habilidades na área 
+- 🤔 Estudando e me dedicando para que em algum momento eu consiga entrar na área
+- 💬 Eu tenho outras redes Sociais para você me encontrar como Linkedin e Gmail
+- ⚡ Sempre Gostei de computadores e de video-games desde criança
 
 
 <div style="display: inline_block"><br>
