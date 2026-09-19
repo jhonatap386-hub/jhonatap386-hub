@@ -1,7 +1,7 @@
 ## 👋 Hi! I'm Jhonata! 
 
 -- 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre Mim
 -- 
 - 💻 I am currently studying Systems Analysis and Development at Eniac College (2026 - 2028)
 - 🐍 I’m currently learning Python
