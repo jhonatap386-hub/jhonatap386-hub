@@ -1,12 +1,10 @@
 # 👋 Hi! I'm Jhonata!
 
-#                                     Linguagem que atualmente mais utilizo em meus projetos pessoais e acâdemicos
+# Linguagem que atualmente mais utilizo em meus projetos pessoais e acâdemicos
 <div align="center">
   <img alt="Rafa-Python" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-
-  <a href="https://www.linkedin.com/in/jhonata-pereira-345aa42a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 
