@@ -1,6 +1,6 @@
 ## 👋 Hi! I'm Jhonata!
 
-
+# Linguagem que atualmente mais utilizo em meus projetos pessoais e acâdemicos
 <div align="center">
   <img alt="Rafa-Python" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
@@ -20,6 +20,13 @@
 - 💬 Eu tenho outras redes Sociais para você me encontrar como Linkedin e Gmail
 - ⚡ Sempre Gostei de computadores e de video-games desde criança
 
+# Onde Me Encontrar: 
+<div> 
+ <a href="https://discord.gg/E63JtECf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="mailto:jhonatap386@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
+
 
  # Front End
  
@@ -28,7 +35,8 @@
   <div align="center">
   <img alt="Rafa-Python" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
- 
+
+ # Onde Me Encontrar: 
 <div> 
  <a href="https://discord.gg/E63JtECf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href="mailto:jhonatap386@gmail.com">
