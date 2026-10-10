@@ -48,7 +48,7 @@
 
 <div align="center">
   <img
-    src="docs/demo.gif"
+    src="https://i.pinimg.com/originals/be/cc/db/beccdb5448dd33c19035abb0dcecae51.gif"
     alt="Demonstração do projeto em funcionamento"
     width="800"
   />
