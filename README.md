@@ -1,7 +1,7 @@
 # 👋 Hi! I'm Jhonata!
 
-<div
   # Linguagem que atualmente mais utilizo em meus projetos pessoais e acâdemicos
+<div
   align="center">
   <img alt="Rafa-Python" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
