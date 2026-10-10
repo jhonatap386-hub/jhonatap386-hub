@@ -48,8 +48,8 @@
 
 <div align="center">
   <img
-    src="https://i.pinimg.com/originals/68/43/cc/6843cc365df18febde115bc70eb15290.gif"
-    alt="Exemplo de GIF"
+    src="docs/demo.gif"
+    alt="Demonstração do projeto em funcionamento"
     width="800"
   />
 </div>
