@@ -46,6 +46,6 @@
       <a<img align="center" alt="Rafa-Python" height="30" width="40" src="https://techicons.dev/icons/pandas/images?q=tbn:ANd9GcRf662jsDk194narO5f2NvL4fnvABPHtOYlnFVNoB5nJA&s=10">
 </div> </a>
 
-
-<a src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2F9mtznxfpdeuq48ed1el8.gif" >
-
+<div
+![Exemplo de GIF]("https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2F9mtznxfpdeuq48ed1el8.gif")
+/div>
