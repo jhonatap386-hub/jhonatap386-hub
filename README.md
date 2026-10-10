@@ -36,8 +36,6 @@
   <a href="https://www.linkedin.com/in/jhonata-pereira-345aa42a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-#
-
 ## Python Bibliotecas
 - Algumas Bibliotecas onde já Utilizei em alguns dos meus Projetos
 - Análise De Dados | Inteligência Artificial |  
