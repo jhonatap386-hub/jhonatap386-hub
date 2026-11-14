@@ -14,11 +14,11 @@
 </div>
 
 
-## 👨‍💻 Sobre Mim
+# **👨‍💻 Sobre Mim**
 
 
-- 💻 Atualmente estou estudando Análise e Desenvolvimento de Sistemas no Eniac (2026 - 2028)
-- 🐍 Estou me desenvolvendo com Python 1/3 
+# - 💻 Atualmente estou estudando Análise e Desenvolvimento de Sistemas no Eniac (2026 - 2028)
+# - 🐍 Estou me desenvolvendo com Python 1/3 
 - 🤔 Estudando e me dedicando para que em algum momento eu consiga entrar na área de T.I
 - 💬 Eu tenho outras redes Sociais para você me encontrar como Linkedin e Gmail
 - ⚡ Sempre Gostei de computadores e de video-games desde criança
