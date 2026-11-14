@@ -3,7 +3,7 @@
   # Linguagem Principal
   
 </div
-  align="center">
+  <align="center">
   <img alt="Rafa-Python" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
